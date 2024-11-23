@@ -34,6 +34,7 @@
 ```bash
 git clone https://github.com/MolkovOleg/SF-WeatherYandexAPI.git
 cd SF-WeatherYandexAPI
+```
 
 ---
 
